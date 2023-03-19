@@ -1,0 +1,12 @@
+.main_container {
+  display: flex;
+  height: 90vh;
+  overflow: auto;
+}
+.home_container {
+  flex: 6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+}

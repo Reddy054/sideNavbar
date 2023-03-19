@@ -1,0 +1,7 @@
+.about_container {
+  flex: 6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
